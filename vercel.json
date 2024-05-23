@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/blogs/:id", "destination": "/blogs/[id]" }
-  ]
-}
